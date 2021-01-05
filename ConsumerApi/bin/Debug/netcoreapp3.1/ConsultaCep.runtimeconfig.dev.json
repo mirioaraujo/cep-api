@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mirio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mirio\\.nuget\\packages"
+    ]
+  }
+}

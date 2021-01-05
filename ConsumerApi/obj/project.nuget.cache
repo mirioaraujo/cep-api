@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh2QAfFn4GhD7v2GogFrtCAazco6jdArVSn9jsSrSgQ80AUCI5K3eI7ov3eroD1codTv1p9DYj14N82adDfR/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mirio\\source\\repos\\ConsumerApi\\ConsumerApi\\ConsultaCep.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mirio\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Mirio\\.nuget\\packages\\refit\\5.2.4\\refit.5.2.4.nupkg.sha512",
+    "C:\\Users\\Mirio\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
